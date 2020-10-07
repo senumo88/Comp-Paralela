@@ -1,0 +1,16 @@
+Dimensiones: 8000000 X 8
+Con 1 thread:  0.17001 segundos
+Con 2 threads: 0.109006 segundos
+con 4 threads: 0.093005 segundos
+
+
+Dimensiones: 8000 X 8000
+Con 1 thread: 0.143008 segundos
+Con 2 threads: 0.087005 segundos
+Con 4 threads: 0.077004 segundos
+
+
+Dimensiones: 8 X 8000000
+Con 1 thread: 0.150008 segundos
+Con 2 threads: 0.187011 segundos
+Con 4 threads 0.166009 segundos
